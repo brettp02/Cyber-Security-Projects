@@ -1,0 +1,1 @@
+This was an assignment for a CyberSecurity paper where I had to write a bash script to setup a University File system. This demonstrates knowledge and use of common file permission tools such as chmod and the use of FACLS, this was all done in my Ubuntu Linux VM. Grade for this was 96.6%
