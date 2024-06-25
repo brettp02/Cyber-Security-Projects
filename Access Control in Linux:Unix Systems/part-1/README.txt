@@ -1,0 +1,4 @@
+Provide the setup.sh. Recall that this is a shell script owned by the root user (you), supposed to be run only once at the beginning of the trimester, that sets up the sub-directories/files. It should of course also include the commands that create any necessary groups, adjusts group memberships, assigns the proper group membership, set ownership and permissions on directories and files, and potentially, any extended access control list that may needed to be applied.
+Note:
+• Try as much as possible to only rely on the Linux basic access control (owner, group, other). Use any extended access control (through setfacl) or special permissions if absolutely necessary.
+• Also, when testing your script, try it with few number of students, say only 3 of them: student000,. . . ,student002. Once you check that your script achieves the goals, change it slightly to work for 94 students before your submit.
